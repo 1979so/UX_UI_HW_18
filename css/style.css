@@ -88,7 +88,7 @@ a {
     row-gap: 50px; 
     }
 
-  .button {
+  button {
     background-color: #FBB786; /* light oragne */
     border: none;
     padding: 15px 32px;
